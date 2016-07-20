@@ -1,0 +1,2 @@
+watching MODERN_REACT_WITH_REDUX_TUTORIAL
+currently at : 11_component_Structure - 00:00
